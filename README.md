@@ -16,6 +16,11 @@
 >
 >[GeeksforGeeks - Kth smallest element](https://practice.geeksforgeeks.org/problems/kth-smallest-element5635/1)
 
+### 4 - Array - Sort an array of 0s, 1s and 2s
+>Given an array of size N containing only 0s, 1s, and 2s; sort the array in ascending order.
+>
+>[GeeksforGeeks - Sort an array of 0s, 1s and 2s](https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1)
+
 ### 17 - Array - Best time to buy and Sell stock
 >You are given an array prices where prices[i] is the price of a given stock on the ith day. 
 >You want to maximize your profit by choosing a single day to buy one stock and choosing a different day in the future to sell that stock.
