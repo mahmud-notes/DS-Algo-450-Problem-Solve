@@ -11,6 +11,11 @@
 >
 >[GeeksforGeeks - Find Max Min in an array](https://www.geeksforgeeks.org/maximum-and-minimum-in-an-array/)
 
+### 3 - Array - Kth smallest element
+>>Given an array arr[] and an integer K where K is smaller than size of array, the task is to find the Kth smallest element in the given array. It is given that all array elements are distinct.
+>
+>[GeeksforGeeks - Kth smallest element](https://practice.geeksforgeeks.org/problems/kth-smallest-element5635/1)
+
 ### 17 - Array - Best time to buy and Sell stock
 >You are given an array prices where prices[i] is the price of a given stock on the ith day. 
 >You want to maximize your profit by choosing a single day to buy one stock and choosing a different day in the future to sell that stock.
