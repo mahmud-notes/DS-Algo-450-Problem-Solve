@@ -31,6 +31,10 @@
 >
 >[GeeksforGeeks - Cyclically rotate an array by one](https://practice.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1)
 
+### 7 - Array - find Largest sum contiguous Subarray
+>Given an array Arr[] of N integers. Find the contiguous sub-array(containing at least one number) which has the maximum sum and return its sum.
+>[GeeksforGeeks - find Largest sum contiguous Subarray](https://practice.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1);
+
 
 ### 17 - Array - Best time to buy and Sell stock
 >You are given an array prices where prices[i] is the price of a given stock on the ith day. 
