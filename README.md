@@ -26,6 +26,12 @@
 >
 >[GeeksforGeeks - Union of two arrays](https://practice.geeksforgeeks.org/problems/union-of-two-arrays3538/1)
 
+### 6 - Array - Cyclically rotate an array by one
+>Given an array, rotate the array by one position in clock-wise direction.
+>
+>[GeeksforGeeks - Cyclically rotate an array by one](https://practice.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1)
+
+
 ### 17 - Array - Best time to buy and Sell stock
 >You are given an array prices where prices[i] is the price of a given stock on the ith day. 
 >You want to maximize your profit by choosing a single day to buy one stock and choosing a different day in the future to sell that stock.
