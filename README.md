@@ -21,6 +21,11 @@
 >
 >[GeeksforGeeks - Sort an array of 0s, 1s and 2s](https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1)
 
+### 5 - Array - Union of two arrays
+>Given two arrays a[] and b[] of size n and m respectively. The task is to find the number of elements in the union between these two arrays.
+>
+>[GeeksforGeeks - Union of two arrays](https://practice.geeksforgeeks.org/problems/union-of-two-arrays3538/1)
+
 ### 17 - Array - Best time to buy and Sell stock
 >You are given an array prices where prices[i] is the price of a given stock on the ith day. 
 >You want to maximize your profit by choosing a single day to buy one stock and choosing a different day in the future to sell that stock.
