@@ -35,6 +35,12 @@
 >Given an array Arr[] of N integers. Find the contiguous sub-array(containing at least one number) which has the maximum sum and return its sum.
 >[GeeksforGeeks - find Largest sum contiguous Subarray](https://practice.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1);
 
+### 8 - Array - Minimise the maximum difference between heights 
+>Given an array arr[] denoting heights of N towers and a positive integer K.
+>For each tower, you must perform exactly one of the following operations exactly once.
+>Find out the minimum possible difference between the height of the shortest and tallest towers after you have modified each tower.
+>[GeeksforGeeks - Minimize the Heights](https://practice.geeksforgeeks.org/problems/minimize-the-heights3351/1)
+
 
 ### 17 - Array - Best time to buy and Sell stock
 >You are given an array prices where prices[i] is the price of a given stock on the ith day. 
